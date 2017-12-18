@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PROYECTO</string>
+
+    <string name="title_section1">Tacos</string>
+    <string name="title_section2">Tortas</string>
+    <string name="title_section3">Bebidas</string>
+    <string name="title_section4">Postres</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_shop">Carrito De Compras</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
